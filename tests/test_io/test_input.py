@@ -1,6 +1,5 @@
 import unittest
 import os
-import pandas as pd
 from app.io.input import input_from_file, input_from_file_pandas
 from app.io.output import output_to_file
 
